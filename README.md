@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -33,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
