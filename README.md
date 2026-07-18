@@ -37,8 +37,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0547-number-of-provinces/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
