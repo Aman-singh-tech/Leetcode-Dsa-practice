@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -54,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0547-number-of-provinces/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->
