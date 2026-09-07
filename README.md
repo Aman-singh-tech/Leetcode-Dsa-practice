@@ -12,12 +12,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
