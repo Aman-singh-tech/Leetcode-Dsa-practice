@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
+| [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
+| [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Depth-First Search
@@ -87,5 +90,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
