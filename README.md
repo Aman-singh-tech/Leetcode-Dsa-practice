@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 ## Hash Table
