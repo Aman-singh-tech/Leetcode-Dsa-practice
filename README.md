@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/1646-get-maximum-in-generated-array/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
