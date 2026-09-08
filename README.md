@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/3870-count-commas-in-range/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
