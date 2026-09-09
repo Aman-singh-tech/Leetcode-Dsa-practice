@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0120-triangle](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0001-two-sum/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0139-word-break/) | Medium |
 | [0268-missing-number](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0268-missing-number/) | Easy |
@@ -81,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Aman-singh-tech/Leetcode-Dsa-practice/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
